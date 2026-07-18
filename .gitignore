@@ -1,0 +1,26 @@
+# Sensitive
+.env
+**/.env
+
+# Python
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Android / Gradle
+build/
+.gradle/
+local.properties
+*.apk
+
+# IDE
+.idea/
+*.iml
+.DS_Store
+
+# Runtime logs / pids
+.pids/
+.logs/
+start.sh
+stop.sh
